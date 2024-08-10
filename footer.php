@@ -42,7 +42,7 @@
                 <div class="footer-contacts">
                   <p><span>Tel:</span> +234 818 843 5281</p>
                   <p><span>Email:</span> bookery@gmail.com</p>
-                  <p><span>Working Hours:</span> 8am-5pm</p>
+                 
                   <p><a href="dashboard.php"><span>Admin</span> login</a></p>
                 </div>
               </div>
@@ -73,7 +73,7 @@
           <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="copyright text-center">
               <p>
-                &copy; Copyright <strong>HERBS</strong>. All Rights Reserved
+                &copy; Copyright <strong>BOOKERY</strong>. All Rights Reserved
               </p>
             </div>
             <div class="credits">
